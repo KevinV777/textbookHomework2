@@ -1,6 +1,7 @@
 /**
  * @class: Circle
  * @author: Kevin Vergara
+ * @verison 1.0
  * @course: ITEC 2140 - 04, Spring 20023
  * @written: January 26, 2023
  * description: This program computes the area and perimeter of a circle with the radius of 9.5

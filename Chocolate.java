@@ -1,6 +1,7 @@
 /**
  * @class: Chocolate
  * @author: Kevin Vergara
+ * @verison 1.0
  * @course: ITEC 2140 - 04, Spring 20023
  * @written: January 26, 2023
  * description: This program shows how many chocolate bags we have to start with
